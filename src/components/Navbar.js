@@ -31,7 +31,7 @@ const Navbar = () => {
                 <Link to="/project">Услуги</Link>
             </li>
             <li>
-                <Link to="/about">О нас</Link>
+                <Link to="/about">Обо мне</Link>
             </li>
             <li>
                 <Link to="/contact">Контакты</Link>
