@@ -31,7 +31,7 @@ const Footer = () => {
             <div className="right">
                 <h4>DaniyalYes</h4>
                 <br></br>
-                <p>Мы не продаем вам сайты, Мы делаем функциональный стиль для вашего бизнеса, Что выглядит не только красиво но и полезно.</p>
+                <p>Мы не продаем вам сайты, мы делаем функциональный стиль для вашего бизнеса, что выглядит не только красиво но и полезно.</p>
                 <div className="social">
                 
                 <a href="https://t.me/daniyalyes" target="_blank"><FaTelegram size={20} style={{color: "#fff", marginRight: "1rem"}}/></a>
