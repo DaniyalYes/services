@@ -10,7 +10,7 @@ const HeroImg = () => {
         <img className='intro-img' src={IntroImg} alt='IntroImg' />
       </div>
       <div className='content'>
-        <h1>Воплощаю мечты создовая сайта</h1>
+        <h1>Воплощаю мечты создавая сайта</h1>
         <p>Открой для себя новые горизонты</p>
         {/* <div>
           <Link to="/project" className='btn'>Процесс работы</Link>
